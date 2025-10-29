@@ -1,3 +1,7 @@
+<p align='center'>
+<img src='./resources/icon.png' width="150" height="150" alt="AgentDNS Icon" />
+</p>
+
 # Agentweb: The Unified Hub for Model Context Protocol (MCP) Servers
 
 English | [中文版](README.zh.md)
