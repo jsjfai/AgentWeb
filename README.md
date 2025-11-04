@@ -1,11 +1,11 @@
-# Smart Agent Network
+# Agent Web
 English | [中文版](README.zh.md)
 
 <p align='center'>
 <img src='./resources/icon.png' width="150" height="150" alt="AgentDNS Icon" />
 </p>
 
-<h1 align="center">Smart Agent Network</h1>
+<h1 align="center">Agent Web</h1>
 
 <p>This is a complete smart agent ecosystem. Based on the dynamic routing and collaboration mechanism of AgentDNS + DNSNode + MCP Client, it enables cross-platform and cross-model interconnection and collaboration of smart agents.</p>
 
@@ -36,7 +36,7 @@ English | [中文版](README.zh.md)
 
 ## 🚀 Project Overview
 
-This is an innovative smart agent interconnection ecosystem. It aims to solve the current isolation issue of AI agents and enable interconnection and collaboration between agents. Through the three-tier architecture of AgentDNS + DNSNode + MCP Client, a complete dynamic routing and collaboration mechanism for smart agents is built. This allows users to access and invoke various smart agent services through a unified interface.
+This is an innovative smart agent interconnection ecosystem. It aims to solve the current isolation issue of AI agents and enable interconnection and collaboration between agents. Through the three-tier architecture of [AgentDNS](https://github.com/jsjfai/AgentDNS) + [DNSNode](https://github.com/jsjfai/AgentDNS-Node) + [AgentWeb Client](https://github.com/jsjfai/AgentDNS-lite-client), a complete dynamic routing and collaboration mechanism for smart agents is built. This allows users to access and invoke various smart agent services through a unified interface.
 
 The system breaks down barriers between different platforms, models, and smart agents. It realizes true collaborative work of smart agents and provides users with a more comprehensive and intelligent service experience.
 
