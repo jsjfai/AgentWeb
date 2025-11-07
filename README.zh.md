@@ -249,5 +249,35 @@ curl -X DELETE $SERVER_URL/my-new-agent \
 ## 👥 开发与贡献
 我们欢迎对智能体网络项目的贡献，无论是代码提交、文档编写还是问题反馈。
 
+## 🤝 合作伙伴
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><img src="./resources/logo/dwzj.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/szzgjt.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/sjdscy.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/dwcx.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/szyh.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/njdx.png" width="120" alt="Partner Logo"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="./resources/logo/lzkjcsjcy.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/dwj.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/bjjykj.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/by.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/csnsyh.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/sax.png" width="120" alt="Partner Logo"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="./resources/logo/zgdxszfgs.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/xhkj.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/ybkj.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/wlh.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/ssk.png" width="120" alt="Partner Logo"></td>
+      <td align="center" valign="middle"><img src="./resources/logo/ydy.png" width="120" alt="Partner Logo"></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 📃 许可证
 智能体网络项目采用Apache License 2.0开源许可证。
