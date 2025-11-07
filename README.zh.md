@@ -240,7 +240,7 @@ curl -X DELETE $SERVER_URL/my-new-agent \
   -H "x-auth-token: $TOKEN"
 ```
 
-## 🚀 Our Goals
+## 🚀 我们的目标
 
 - 建立 **智能体互操作标准**（Inter-Agent Protocols）
 - 推动 **任务驱动的多智能体协作生态**（Task-Oriented AI Network）
